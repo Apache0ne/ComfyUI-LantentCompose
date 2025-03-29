@@ -1,7 +1,7 @@
 [project]
 name = "ComfyUI-LantentCompose"
 description = "Interpolate sdxl latents using slerp with and without a mask. use with unsample nodes for best effect"
-version = "1.0.0"
+version = "1.0.1"
 license = {file = "LICENSE"}
 
 [project.urls]
